@@ -1,6 +1,6 @@
 ### Hi there, 👋
 
-I am Yi Hao from Singapore who is in the final stages of completing my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
+I am Yi Hao from Singapore who is in the final stages of my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
 
 
 <!--
