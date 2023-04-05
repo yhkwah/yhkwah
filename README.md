@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, 👋
+
+I am Yi Hao from Singapore who is in the final stages of completing my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
+
 
 <!--
 **yhkwah/yhkwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
