@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 I am Yi Hao from Singapore currently working as a fire safety consultant in GEXCON, performing CFD simulations and risk assessments to make the world a safer and better place. 
-who has recently completed my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
+I have recently completed my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
 Check out my site: https://yhkwah.github.io/ to see what I have been up to! 
 
 <!--
