@@ -1,8 +1,8 @@
 ### Hi there, 👋
 
-I am Yi Hao from Singapore who has recently completed my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
-I am currently working as a fire safety consultant in GEXCON, performing CFD simulations and risk assessments to make the world a safer and better place. 
-If you are interested in knowing what I have been up to, check out my site: https://yhkwah.github.io/ .
+I am Yi Hao from Singapore currently working as a fire safety consultant in GEXCON, performing CFD simulations and risk assessments to make the world a safer and better place. 
+who has recently completed my PhD at the Turbulent Combustion group of the Norwegian University of Science and Technology (NTNU).
+Check out my site: https://yhkwah.github.io/ to see what I have been up to! 
 
 <!--
 **yhkwah/yhkwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
